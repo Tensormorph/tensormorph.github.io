@@ -2,11 +2,13 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Tensormorph/.github/refs/heads/main/profile/Tensormorph%20Text%20Logo.svg"
+    src="https://raw.githubusercontent.com/Tensormorph/tensormorph.github.io/refs/heads/main/tensormorph-text-animated.svg"
     alt="Tensormorph"
     width="400"
   />
 </p>
+
+
 
 **Tensormorph** is a professional **Tensor IDE** for visually exploring, inspecting, comparing, debugging, and transforming tensors and open-weight AI models. It helps machine-learning engineers navigate models from complete architectures through layers, modules, tensors, matrix tiles, and individual scalar values. Tensormorph aims to make model weights easier to understand through interactive visualization, statistics, heatmaps, model comparison, quantization analysis, and scalable tensor inspection.
 
