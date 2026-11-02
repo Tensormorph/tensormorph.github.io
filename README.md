@@ -56,6 +56,9 @@ It helps machine-learning engineers understand models at every level - from comp
 
 Tensormorph aims to make **AI model weights understandable**.
 
+> Goal: Develop a professional Tensor IDE for visually exploring, inspecting, comparing, debugging, and transforming tensors and open-weight AI models. It integrates Tensor Expression Language (TEL) to represent and express tensor operations within a unified computation graph, treating tensors as the fundamental units of computation. From loading open-weight models (Safetensors, GGUF) to inspecting complete architectures, layers, modules, tensors, matrix tiles, and individual scalar values, Tensormorph helps machine-learning engineers understand model computations through interactive visualization, statistics, heatmaps, model comparison, quantization analysis, and scalable tensor inspection.
+
+
 By combining interactive visualization, deep tensor inspection, statistics, comparison tools, and model analysis, Tensormorph provides a visual environment for understanding what is inside modern AI models.
 
 > **Explore the model. Inspect the tensors. Understand the weights.**
