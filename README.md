@@ -1,6 +1,6 @@
 ## 🔬 Tensormorph 👋
 
-<a  href="https://tensormorph.ai">
+<a  href="https://tensormorph.ai" style="text-align: center;">
   <p align="center">
     <center>
   <img
