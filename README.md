@@ -1,12 +1,12 @@
 ## 🔬 Tensormorph 👋
 
-<p align="center">
+<a align="center" href="https://tensormorph.ai">
   <img
     src="https://raw.githubusercontent.com/Tensormorph/tensormorph.github.io/refs/heads/main/tensormorph-text-animated.svg"
     alt="Tensormorph"
     width="400"
   />
-</p>
+</a>
 
 
 
